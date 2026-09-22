@@ -1,6 +1,6 @@
 # Privacy Policy: Equalizer For YouTube&Music
 
-*Last updated: September 19, 2026* · [Türkçe sürüm aşağıdadır](#gizlilik-politikası-türkçe)
+*Last updated: September 22, 2026* · [Türkçe sürüm aşağıdadır](#gizlilik-politikası-türkçe)
 
 **In short: Equalizer For YouTube&Music does not collect, store on any server, share or sell your personal data. It has no accounts, no analytics, no advertising and no tracking.**
 
@@ -17,7 +17,7 @@ The following stays on your Mac and is never sent to the developer or to any thi
 
 ## Audio
 
-The equalizer processes the sound that the app itself plays. To do this it asks macOS for the **System Audio Recording** permission and uses Apple's Core Audio to receive the audio of the app's own web content, adjust it in real time in memory, and play it back. The audio is **not recorded, saved or transmitted**. When the equalizer is off, no audio is captured. You can withdraw the permission at any time in System Settings → Privacy & Security.
+While switched on, the equalizer processes **all of your Mac's audio output, not only this app's** — Core Audio has no way for an app to single out its own sound from everything else playing on the Mac, so the equalizer applies to everything (other apps, system sounds) for as long as it is on. This is stated in the equalizer panel itself. To do this it asks macOS for the **System Audio Recording** permission and uses Apple's Core Audio to receive the Mac's audio, adjust it in real time in memory, and play it back. The audio is **not recorded, saved or transmitted**. When the equalizer is off, no audio is captured. You can withdraw the permission at any time in System Settings → Privacy & Security.
 
 ## YouTube and Google
 
@@ -52,7 +52,7 @@ Questions about this policy: **mail@alemdar.tech**
 
 # Gizlilik Politikası (Türkçe)
 
-*Son güncelleme: 19 Eylül 2026*
+*Son güncelleme: 22 Eylül 2026*
 
 **Kısaca: Equalizer For YouTube&Music kişisel verilerinizi toplamaz, hiçbir sunucuda saklamaz, paylaşmaz ve satmaz. Hesap, analiz, reklam veya izleme yoktur.**
 
@@ -69,7 +69,7 @@ Aşağıdakiler Mac'inizde kalır. Uygulama bunları geliştiriciye veya üçün
 
 ## Ses
 
-Ekolayzer, uygulamanın kendi çaldığı sesi işler. Bunun için macOS'ten **Sistem Sesi Kaydı** iznini ister ve Apple'ın Core Audio altyapısıyla uygulamanın kendi web içeriğinin sesini alır, bellekte gerçek zamanlı olarak ayarlar ve geri çalar. Ses **kaydedilmez, saklanmaz ve iletilmez**. Ekolayzer kapalıyken hiçbir ses yakalanmaz. İzni istediğiniz zaman Sistem Ayarları → Gizlilik ve Güvenlik bölümünden geri alabilirsiniz.
+Ekolayzer açıkken **yalnızca bu uygulamanın değil, Mac'inizin tüm ses çıkışını** işler — Core Audio, bir uygulamanın kendi sesini diğer her şeyden ayırmasına izin vermiyor, bu yüzden ekolayzer açık olduğu sürece diğer uygulamaları ve sistem seslerini de etkiler. Bu, ekolayzer panelinde açıkça belirtilir. Bunun için macOS'ten **Sistem Sesi Kaydı** iznini ister ve Apple'ın Core Audio altyapısıyla Mac'inizin sesini alır, bellekte gerçek zamanlı olarak ayarlar ve geri çalar. Ses **kaydedilmez, saklanmaz ve iletilmez**. Ekolayzer kapalıyken hiçbir ses yakalanmaz. İzni istediğiniz zaman Sistem Ayarları → Gizlilik ve Güvenlik bölümünden geri alabilirsiniz.
 
 ## YouTube ve Google
 
