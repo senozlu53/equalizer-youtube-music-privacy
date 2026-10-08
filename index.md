@@ -1,6 +1,6 @@
 # Privacy Policy: Equalizer for YouTuber&Music
 
-*Last updated: October 8, 2026* · [Türkçe sürüm aşağıdadır](#gizlilik-politikası-türkçe)
+*Last updated: October 8, 2026* · [Support](support.html) · [Türkçe sürüm aşağıdadır](#gizlilik-politikası-türkçe)
 
 **In short: Equalizer for YouTuber&Music does not collect, store on any server, share or sell your personal data. It has no accounts, no analytics, no advertising and no tracking.**
 
@@ -12,7 +12,7 @@ Equalizer for YouTuber&Music is a macOS app that shows YouTube and YouTube Music
 
 The following stays on your Mac and is never sent to the developer or to any third party by the app:
 
-- **App settings:** your equalizer settings and saved presets, window preferences such as keeping the window on top, the address of the last page you visited (so the app can reopen it) and whether you have completed sign-in.
+- **App settings:** your equalizer settings and saved presets, window preferences such as keeping the window on top and the address of the last page you visited (so the app can reopen it).
 - **Web content data:** like any browser, the macOS web engine (WebKit) keeps cookies, cache and your YouTube/Google sign-in session inside the app's own sandbox. Choosing **Settings → Clear session and last page** in the app deletes this data and the stored last page address.
 
 ## Audio
@@ -64,7 +64,7 @@ Equalizer for YouTuber&Music, YouTube ve YouTube Music'i kendi penceresinde gös
 
 Aşağıdakiler Mac'inizde kalır. Uygulama bunları geliştiriciye veya üçüncü bir tarafa göndermez:
 
-- **Uygulama ayarları:** ekolayzer ayarlarınız ve kayıtlı preset'ler, pencerenin üstte kalması gibi tercihler, son ziyaret ettiğiniz sayfanın adresi (uygulama onu yeniden açabilsin diye) ve girişi tamamlayıp tamamlamadığınız.
+- **Uygulama ayarları:** ekolayzer ayarlarınız ve kayıtlı preset'ler, pencerenin üstte kalması gibi tercihler ve son ziyaret ettiğiniz sayfanın adresi (uygulama onu yeniden açabilsin diye).
 - **Web içeriği verileri:** her tarayıcı gibi macOS'in web motoru (WebKit) çerezleri, önbelleği ve YouTube/Google oturumunuzu uygulamanın kendi kum havuzunda tutar. Uygulamada **Settings → Clear session and last page** (oturumu ve son sayfayı temizle) seçildiğinde bu veriler ve kayıtlı son sayfa adresi silinir.
 
 ## Ses
