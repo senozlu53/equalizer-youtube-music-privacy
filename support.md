@@ -8,7 +8,7 @@ title: Support
 
 ## What the app does
 
-Equalizer for Video & Music opens YouTube and YouTube Music in their own Mac window, with tabs, and adds a built-in 10-band audio equalizer. No account is needed: the app opens straight to YouTube. Signing in to YouTube is optional (toolbar → **Sign In**).
+Equalizer for Video & Music opens YouTube and YouTube Music in their own Mac window, with tabs, and adds a built-in 10-band audio equalizer. No account is needed: the app opens straight to YouTube. Signing in to YouTube is optional and uses YouTube's own **Sign in** button on the page.
 
 ## Using the equalizer
 
@@ -16,7 +16,7 @@ Equalizer for Video & Music opens YouTube and YouTube Music in their own Mac win
 - The panel has ten bands (31 Hz – 16 kHz), a preamp, **Save as…** for your own presets and **Reset**. Headroom is applied automatically so boosted bands don't clip.
 - **While it is on, the equalizer applies to all of your Mac's audio output, not only to this app** (macOS doesn't let an app separate its own sound from everything else). The panel says so. Switch it off when you don't want other apps affected.
 - The first time you switch it on, macOS asks for the **System Audio Recording** permission. While the equalizer is on, macOS shows a purple indicator in the menu bar. The audio is processed in memory in real time; it is never recorded, saved or sent anywhere. Nothing is captured while the equalizer is off.
-- If the panel says no audio was captured, allow the app in **System Settings → Privacy & Security → Screen & System Audio Recording**, then switch the equalizer off and on.
+- The first time, the equalizer may need a few seconds after you click **Allow** to start working. If the panel says no audio was captured, allow the app in **System Settings → Privacy & Security → Screen & System Audio Recording**, then switch the equalizer off and on.
 
 ## Other features
 
