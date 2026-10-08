@@ -20,7 +20,7 @@ Equalizer for Video & Music opens YouTube and YouTube Music in their own Mac win
 
 ## Other features
 
-- **Tabs:** **+** opens a new tab. Right-click a video thumbnail → **Open in New Tab**.
+- **Tabs:** **+** opens a new tab. Right-click any link → **Open Link in New Window** opens it in a new tab.
 - **Music:** the note icon in the toolbar opens YouTube Music in its own tab.
 - **Navigation:** back, forward, reload/stop and home buttons; a mouse's back button also goes back.
 - **Keyboard:** ⌘L focuses the search field; ⌃⌘F toggles full screen.
