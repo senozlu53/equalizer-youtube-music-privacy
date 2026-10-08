@@ -2,13 +2,13 @@
 title: Support
 ---
 
-# Support: Equalizer for YouTuber&Music
+# Support: Equalizer for Video & Music
 
 [Privacy Policy](./) · Contact: **mail@alemdar.tech**
 
 ## What the app does
 
-Equalizer for YouTuber&Music opens YouTube and YouTube Music in their own Mac window, with tabs, and adds a built-in 10-band audio equalizer. No account is needed: the app opens straight to YouTube. Signing in to YouTube is optional (toolbar → **Sign In**).
+Equalizer for Video & Music opens YouTube and YouTube Music in their own Mac window, with tabs, and adds a built-in 10-band audio equalizer. No account is needed: the app opens straight to YouTube. Signing in to YouTube is optional (toolbar → **Sign In**).
 
 ## Using the equalizer
 
@@ -32,4 +32,4 @@ macOS 26 or later.
 
 ---
 
-Equalizer for YouTuber&Music is an independent app. It is not affiliated with, endorsed by or sponsored by Google LLC or YouTube. YouTube and YouTube Music are trademarks of Google LLC.
+Equalizer for Video & Music is an independent app. It is not affiliated with, endorsed by or sponsored by Google LLC or YouTube. YouTube and YouTube Music are trademarks of Google LLC.
