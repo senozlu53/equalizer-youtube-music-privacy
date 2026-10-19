@@ -1,12 +1,12 @@
 # Privacy Policy: Equalizer for Video & Music
 
-*Last updated: October 8, 2026* · [Support](support.html) · [Türkçe sürüm aşağıdadır](#gizlilik-politikası-türkçe)
+*Last updated: October 19, 2026* · [Support](support.html) · [Türkçe sürüm aşağıdadır](#gizlilik-politikası-türkçe)
 
 **In short: Equalizer for Video & Music does not collect, store on any server, share or sell your personal data. It has no accounts, no analytics, no advertising and no tracking.**
 
 ## What the app does
 
-Equalizer for Video & Music is a macOS app that shows YouTube and YouTube Music in its own window and adds a built-in audio equalizer. The developer is Selcuk Alemdar.
+Equalizer for Video & Music is a macOS app that shows YouTube and YouTube Music in its own window and adds a built-in audio equalizer. It is also available for iPad (iPadOS), where it shows the same websites inside the app with a built-in equalizer; the differences are described in **iPad version** below. The developer is Selcuk Alemdar.
 
 ## Data the app keeps on your Mac
 
@@ -19,9 +19,18 @@ The following stays on your Mac and is never sent to the developer or to any thi
 
 While switched on, the equalizer processes **all of your Mac's audio output, not only this app's** — Core Audio has no way for an app to single out its own sound from everything else playing on the Mac, so the equalizer applies to everything (other apps, system sounds) for as long as it is on. This is stated in the equalizer panel itself. To do this it asks macOS for the **System Audio Recording** permission and uses Apple's Core Audio to receive the Mac's audio, adjust it in real time in memory, and play it back. The audio is **not recorded, saved or transmitted**. When the equalizer is off, no audio is captured. You can withdraw the permission at any time in System Settings → Privacy & Security.
 
+## iPad version
+
+The iPad version keeps the same promise: no data is collected, sent to the developer, shared or sold.
+
+- **Data kept on your iPad:** your equalizer presets, the Desktop / Mobile site choice and the video quality mode. Like any browser, the iPad's web engine (WebKit) keeps the websites' cookies, cache and your YouTube/Google sign-in session inside the app. All of this stays on your iPad and is removed when you delete the app.
+- **Audio:** the equalizer processes only the audio played inside this app: video and music on the web pages you open in the app, and audio files you choose to play from the Files app. It does not capture other apps' audio or your iPad's system audio. For high-resolution video, the app decodes in memory the audio data that the web page has already loaded into its own player, so the equalizer can be applied. This audio is processed in real time, kept only briefly in memory for playback, and is **not recorded, saved or transmitted**.
+- **Permissions:** the iPad version asks for no permissions (no microphone, no system audio recording). Audio files are opened only when you pick them in the standard file picker; they are read for playback and not copied or uploaded.
+- **Network:** apart from the web pages you open (including any address you type in the app's address field), the app makes no network connections of its own.
+
 ## YouTube and Google
 
-The app loads pages from youtube.com, music.youtube.com and accounts.google.com. When you use them, Google may collect data according to its own policies:
+The app loads pages from youtube.com (on iPad also m.youtube.com), music.youtube.com and accounts.google.com. When you use them, Google may collect data according to its own policies:
 
 - Google Privacy Policy: https://policies.google.com/privacy
 - YouTube Terms of Service: https://www.youtube.com/t/terms
@@ -52,13 +61,13 @@ Questions about this policy: **mail@alemdar.tech**
 
 # Gizlilik Politikası (Türkçe)
 
-*Son güncelleme: 8 Ekim 2026*
+*Son güncelleme: 19 Ekim 2026*
 
 **Kısaca: Equalizer for Video & Music kişisel verilerinizi toplamaz, hiçbir sunucuda saklamaz, paylaşmaz ve satmaz. Hesap, analiz, reklam veya izleme yoktur.**
 
 ## Uygulama ne yapar
 
-Equalizer for Video & Music, YouTube ve YouTube Music'i kendi penceresinde gösteren ve yerleşik bir ses ekolayzeri ekleyen bir macOS uygulamasıdır. Geliştirici: Selcuk Alemdar.
+Equalizer for Video & Music, YouTube ve YouTube Music'i kendi penceresinde gösteren ve yerleşik bir ses ekolayzeri ekleyen bir macOS uygulamasıdır. iPad (iPadOS) için de sunulur; iPad'de aynı siteleri uygulamanın içinde yerleşik ekolayzerle gösterir. Farklar aşağıdaki **iPad sürümü** bölümündedir. Geliştirici: Selcuk Alemdar.
 
 ## Uygulamanın Mac'inizde tuttuğu veriler
 
@@ -71,9 +80,18 @@ Aşağıdakiler Mac'inizde kalır. Uygulama bunları geliştiriciye veya üçün
 
 Ekolayzer açıkken **yalnızca bu uygulamanın değil, Mac'inizin tüm ses çıkışını** işler — Core Audio, bir uygulamanın kendi sesini diğer her şeyden ayırmasına izin vermiyor, bu yüzden ekolayzer açık olduğu sürece diğer uygulamaları ve sistem seslerini de etkiler. Bu, ekolayzer panelinde açıkça belirtilir. Bunun için macOS'ten **Sistem Sesi Kaydı** iznini ister ve Apple'ın Core Audio altyapısıyla Mac'inizin sesini alır, bellekte gerçek zamanlı olarak ayarlar ve geri çalar. Ses **kaydedilmez, saklanmaz ve iletilmez**. Ekolayzer kapalıyken hiçbir ses yakalanmaz. İzni istediğiniz zaman Sistem Ayarları → Gizlilik ve Güvenlik bölümünden geri alabilirsiniz.
 
+## iPad sürümü
+
+iPad sürümü de aynı ilkeye bağlıdır: hiçbir veri toplanmaz, geliştiriciye gönderilmez, paylaşılmaz ve satılmaz.
+
+- **iPad'inizde tutulan veriler:** ekolayzer preset'leriniz, Desktop / Mobil site tercihi ve video kalite modu. Her tarayıcı gibi iPad'in web motoru (WebKit) sitelerin çerezlerini, önbelleğini ve YouTube/Google oturumunuzu uygulamanın içinde tutar. Bunların tümü iPad'inizde kalır ve uygulamayı sildiğinizde silinir.
+- **Ses:** ekolayzer yalnızca bu uygulamanın içinde çalan sesi işler: uygulamada açtığınız web sayfalarındaki video ve müzik ile Dosyalar uygulamasından çalmak için seçtiğiniz ses dosyaları. Diğer uygulamaların sesini veya iPad'in sistem sesini yakalamaz. Yüksek çözünürlüklü videoda ekolayzerin uygulanabilmesi için, web sayfasının kendi oynatıcısına zaten yüklediği ses verisini bellekte çözer. Bu ses gerçek zamanlı işlenir, yalnızca çalma için kısa süre bellekte tutulur; **kaydedilmez, saklanmaz ve iletilmez**.
+- **İzinler:** iPad sürümü hiçbir izin istemez (mikrofon veya sistem sesi kaydı yok). Ses dosyaları yalnızca standart dosya seçicide siz seçtiğinizde açılır; çalmak için okunur, kopyalanmaz ve yüklenmez.
+- **Ağ:** açtığınız web sayfaları (uygulamanın adres alanına yazdığınız adresler dahil) dışında uygulama kendi başına ağ bağlantısı kurmaz.
+
 ## YouTube ve Google
 
-Uygulama youtube.com, music.youtube.com ve accounts.google.com sayfalarını yükler. Bunları kullandığınızda Google kendi politikalarına göre veri toplayabilir:
+Uygulama youtube.com (iPad'de ayrıca m.youtube.com), music.youtube.com ve accounts.google.com sayfalarını yükler. Bunları kullandığınızda Google kendi politikalarına göre veri toplayabilir:
 
 - Google Gizlilik Politikası: https://policies.google.com/privacy
 - YouTube Hizmet Şartları: https://www.youtube.com/t/terms
